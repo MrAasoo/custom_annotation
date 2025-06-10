@@ -1,6 +1,5 @@
 package com.aasoo.annotation;
 
-import com.aasoo.annotation.utils.Converter;
 import com.aasoo.annotation.validator.RomanValidator;
 
 import java.util.Scanner;
